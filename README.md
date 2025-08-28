@@ -1,4 +1,4 @@
-# hiv-stochastic-modeling
+# Hiv-1-stochastic-modeling
 A stochastic model for simulating and analyzing the early dynamics of HIV-1 infection.
 
 # Stochastic Modeling of Early HIV-1 Population Dynamics
